@@ -46,9 +46,27 @@ Following sub-tasks have to be performed on the prepared data:
 
 The Jupyter notebook "programming_challange.ipynb" can be found in the repository.
 
+## Solution
+Implementation of an ETL (Extract, Transform and Load) pipeline.
 
+### Step Involved
+The whole process was implemented on Jupyter notebook using the python and pandas API on Apache Spark for execution of the Data Engineering and Data Science task on single-node machine.
 
+Following are the steps followed to achieve the desired results:
 
+1- Data Extraction from the vehicle_data.xlsx file. The data-set comprises of three excel sheets which were converted to .csv file format for ease of use. It results into three "Dataframes" for further execution. 
+
+2- Dataframes are futher analyzed thoroughly for missing and corrupt values.
+
+3- Observation through inital analysis leads to the data cleaning and transformations where necessary.
+
+4- Prepared and dataframes are then merged together resulting into a new dataframe.  
+
+5- The desired columns are then selected from the merged datframe.
+
+6- Merged data is then saved/loaded into the orignal data source which in this case is the vehicle_data.xlsx file.  
+
+7- Once the final dataframe is ready further operations can be performed to extract useful information and trends within the data.
 
 
 

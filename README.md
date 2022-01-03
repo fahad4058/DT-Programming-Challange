@@ -21,7 +21,7 @@ the prepared data has to be analyzed and evaluated by performing multiple operat
 - Data visulatization libraries - seaborn, matlplotlib, worcloud were briefly used to highlight the potential of data visulatization tools and techniques in context to Data Analytics.  
 
 ### Data used
-The Data used is provided by the Daimler Trucks Analytics which consists of tablur data in Excel format. 
+The Data used is provided by the Daimler Trucks Analytics which consists of tabular data in Excel format. 
 The Excel file vehicle_data.xlsx consists of three sheets namely sales_codes, vehicle hash and engines which contains following information:
 - sales_codes: vehicle hash, production dates, shipping countries, and a sales code array which shows the composition of a vehicle in terms of sales codes.
 - vehicle_hash: vehicle hash, unique vehicle ID "fin", recording dates and source.

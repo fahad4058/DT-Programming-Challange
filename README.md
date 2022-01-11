@@ -9,7 +9,7 @@ This repository contains two jupyter notebooks:
 
 -programming_challange.ipynb contains complete step by step walkthrough through the tasks for better understanding and recollection.
 
--programming_challangev2.ipynb is the organized version which referrs specifically to the tasks and their results. 
+-programming_challangev2.ipynb is the optimized version which referrs specifically to the tasks and their results. 
 
 
 ## Daimler Trucks - Truck Analytics : Data Analytics Programming Challange

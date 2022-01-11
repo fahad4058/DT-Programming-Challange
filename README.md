@@ -5,6 +5,11 @@ Fahad Maqsood (fahad4058@gmail.com)
 
 Last update: 01-03-2022 
 
+This repository contains two jupyter notebooks:
+
+-programming_challange.ipynb contains complete step by step walkthrough through the tasks for better understanding and recollection.
+
+-programming_challangev2.ipynb is the organized version which referrs specifically to the tasks and their results. 
 
 
 ## Daimler Trucks - Truck Analytics : Data Analytics Programming Challange
